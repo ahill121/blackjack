@@ -5,7 +5,7 @@
 require "mysql2"
 
 require_relative 'gameclassARH'
-
+#stufff
 
 class BlackJack
 
